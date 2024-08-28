@@ -42,11 +42,11 @@ I'm interested in [Open Science](https://www.unesco.org/en/open-science), Open S
 ![Swagger](icons/swagger-original.png)
 ![SPARQL](icons/sparql.png)
 
-## ![GitHub](icons/github-original.png) 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
+**:zap: Recent Activity:**
+
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
-
 ## ![GitHub](icons/github-original.png) My GitHub stats
 [![c-martinez's GitHub stats](https://github-readme-stats.vercel.app/api?username=c-martinez&hide_title=true&show_icons=true&theme=catppuccin_latte)](https://github.com/c-martinez/github-readme-stats)
 

@@ -42,11 +42,17 @@ I'm interested in [Open Science](https://www.unesco.org/en/open-science), Open S
 ![Swagger](icons/swagger-original.png)
 ![SPARQL](icons/sparql.png)
 
-**:zap: Recent Activity:**
+
+### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-
+1. 🎉 Merged PR [#4304](https://github.com/hoppscotch/hoppscotch/pull/4304) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+2. 💪 Opened PR [#4305](https://github.com/hoppscotch/hoppscotch/pull/4305) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+3. 🗣 Commented on [#4271](https://github.com/hoppscotch/hoppscotch/issues/4271#issuecomment-2307054671) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+4. 🔒 Closed issue [#4271](https://github.com/hoppscotch/hoppscotch/issues/4271) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+5. 🎉 Merged PR [#4284](https://github.com/hoppscotch/hoppscotch/pull/4284) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
 <!--END_SECTION:activity-->
+
 ## ![GitHub](icons/github-original.png) My GitHub stats
 [![c-martinez's GitHub stats](https://github-readme-stats.vercel.app/api?username=c-martinez&hide_title=true&show_icons=true&theme=catppuccin_latte)](https://github.com/c-martinez/github-readme-stats)
 

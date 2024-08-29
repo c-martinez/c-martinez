@@ -46,11 +46,11 @@ I'm interested in [Open Science](https://www.unesco.org/en/open-science), Open S
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4304](https://github.com/hoppscotch/hoppscotch/pull/4304) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-2. 💪 Opened PR [#4305](https://github.com/hoppscotch/hoppscotch/pull/4305) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-3. 🗣 Commented on [#4271](https://github.com/hoppscotch/hoppscotch/issues/4271#issuecomment-2307054671) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-4. 🔒 Closed issue [#4271](https://github.com/hoppscotch/hoppscotch/issues/4271) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-5. 🎉 Merged PR [#4284](https://github.com/hoppscotch/hoppscotch/pull/4284) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+1. ❗ Opened issue [#579](https://github.com/NLeSC/python-template/issues/579) in [NLeSC/python-template](https://github.com/NLeSC/python-template)
+2. ❗ Opened issue [#577](https://github.com/NLeSC/python-template/issues/577) in [NLeSC/python-template](https://github.com/NLeSC/python-template)
+3. 🗣 Commented on [#489](https://github.com/CLARIAH/grlc/pull/489#issuecomment-2299670692) in [CLARIAH/grlc](https://github.com/CLARIAH/grlc)
+4. 💪 Opened PR [#490](https://github.com/CLARIAH/grlc/pull/490) in [CLARIAH/grlc](https://github.com/CLARIAH/grlc)
+5. 🗣 Commented on [#482](https://github.com/CLARIAH/grlc/issues/482#issuecomment-2297396230) in [CLARIAH/grlc](https://github.com/CLARIAH/grlc)
 <!--END_SECTION:activity-->
 
 ## ![GitHub](icons/github-original.png) My GitHub stats

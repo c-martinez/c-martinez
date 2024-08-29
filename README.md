@@ -43,7 +43,7 @@ I'm interested in [Open Science](https://www.unesco.org/en/open-science), Open S
 ![SPARQL](icons/sparql.png)
 
 
-### :zap: Recent Activity
+### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
 1. ❗ Opened issue [#579](https://github.com/NLeSC/python-template/issues/579) in [NLeSC/python-template](https://github.com/NLeSC/python-template)

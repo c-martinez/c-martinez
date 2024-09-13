@@ -46,11 +46,11 @@ I'm interested in [Open Science](https://www.unesco.org/en/open-science), Open S
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#662](https://github.com/NLeSC/python-template/issues/662) in [NLeSC/python-template](https://github.com/NLeSC/python-template)
-2. ❗ Opened issue [#579](https://github.com/NLeSC/python-template/issues/579) in [NLeSC/python-template](https://github.com/NLeSC/python-template)
-3. ❗ Opened issue [#577](https://github.com/NLeSC/python-template/issues/577) in [NLeSC/python-template](https://github.com/NLeSC/python-template)
-4. 🗣 Commented on [#489](https://github.com/CLARIAH/grlc/pull/489#issuecomment-2299670692) in [CLARIAH/grlc](https://github.com/CLARIAH/grlc)
-5. 💪 Opened PR [#490](https://github.com/CLARIAH/grlc/pull/490) in [CLARIAH/grlc](https://github.com/CLARIAH/grlc)
+1. ❗ Opened issue [#667](https://github.com/NLeSC/python-template/issues/667) in [NLeSC/python-template](https://github.com/NLeSC/python-template)
+2. 🗣 Commented on [#664](https://github.com/NLeSC/python-template/issues/664#issuecomment-2340490426) in [NLeSC/python-template](https://github.com/NLeSC/python-template)
+3. ❗ Opened issue [#662](https://github.com/NLeSC/python-template/issues/662) in [NLeSC/python-template](https://github.com/NLeSC/python-template)
+4. ❗ Opened issue [#579](https://github.com/NLeSC/python-template/issues/579) in [NLeSC/python-template](https://github.com/NLeSC/python-template)
+5. ❗ Opened issue [#577](https://github.com/NLeSC/python-template/issues/577) in [NLeSC/python-template](https://github.com/NLeSC/python-template)
 <!--END_SECTION:activity-->
 
 ## ![GitHub](icons/github-original.png) My GitHub stats

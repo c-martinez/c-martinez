@@ -46,11 +46,11 @@ I'm interested in [Open Science](https://www.unesco.org/en/open-science), Open S
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#371](https://github.com/fair-software/howfairis/issues/371) in [fair-software/howfairis](https://github.com/fair-software/howfairis)
-2. ❗ Opened issue [#351](https://github.com/NLeSC/guide/issues/351) in [NLeSC/guide](https://github.com/NLeSC/guide)
-3. ❗ Opened issue [#350](https://github.com/NLeSC/guide/issues/350) in [NLeSC/guide](https://github.com/NLeSC/guide)
-4. 🗣 Commented on [#349](https://github.com/NLeSC/guide/issues/349#issuecomment-2391239594) in [NLeSC/guide](https://github.com/NLeSC/guide)
-5. ❗ Opened issue [#349](https://github.com/NLeSC/guide/issues/349) in [NLeSC/guide](https://github.com/NLeSC/guide)
+1. 🗣 Commented on [#368](https://github.com/fair-software/howfairis/issues/368#issuecomment-2417874799) in [fair-software/howfairis](https://github.com/fair-software/howfairis)
+2. 🔒 Closed issue [#368](https://github.com/fair-software/howfairis/issues/368) in [fair-software/howfairis](https://github.com/fair-software/howfairis)
+3. ❗ Opened issue [#371](https://github.com/fair-software/howfairis/issues/371) in [fair-software/howfairis](https://github.com/fair-software/howfairis)
+4. ❗ Opened issue [#351](https://github.com/NLeSC/guide/issues/351) in [NLeSC/guide](https://github.com/NLeSC/guide)
+5. ❗ Opened issue [#350](https://github.com/NLeSC/guide/issues/350) in [NLeSC/guide](https://github.com/NLeSC/guide)
 <!--END_SECTION:activity-->
 
 ## ![GitHub](icons/github-original.png) My GitHub stats

@@ -46,11 +46,11 @@ I'm interested in [Open Science](https://www.unesco.org/en/open-science), Open S
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#350](https://github.com/NLeSC/guide/issues/350#issuecomment-2461730010) in [NLeSC/guide](https://github.com/NLeSC/guide)
-2. 🗣 Commented on [#2927](https://github.com/the-turing-way/the-turing-way/pull/2927#issuecomment-2461723607) in [the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)
-3. 🗣 Commented on [#3768](https://github.com/the-turing-way/the-turing-way/pull/3768#issuecomment-2461711913) in [the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)
-4. ❗ Opened issue [#362](https://github.com/NLeSC/guide/issues/362) in [NLeSC/guide](https://github.com/NLeSC/guide)
-5. ❗ Opened issue [#361](https://github.com/NLeSC/guide/issues/361) in [NLeSC/guide](https://github.com/NLeSC/guide)
+1. 🗣 Commented on [#10](https://github.com/SS-NES/SS-NES-lesson/issues/10#issuecomment-2470618986) in [SS-NES/SS-NES-lesson](https://github.com/SS-NES/SS-NES-lesson)
+2. 🗣 Commented on [#10](https://github.com/SS-NES/SS-NES-lesson/issues/10#issuecomment-2470585451) in [SS-NES/SS-NES-lesson](https://github.com/SS-NES/SS-NES-lesson)
+3. 🗣 Commented on [#7](https://github.com/SS-NES/SS-NES-lesson/pull/7#issuecomment-2470107635) in [SS-NES/SS-NES-lesson](https://github.com/SS-NES/SS-NES-lesson)
+4. 🗣 Commented on [#7](https://github.com/SS-NES/SS-NES-lesson/pull/7#issuecomment-2468921385) in [SS-NES/SS-NES-lesson](https://github.com/SS-NES/SS-NES-lesson)
+5. 🎉 Merged PR [#497](https://github.com/CLARIAH/grlc/pull/497) in [CLARIAH/grlc](https://github.com/CLARIAH/grlc)
 <!--END_SECTION:activity-->
 
 ## ![GitHub](icons/github-original.png) My GitHub stats

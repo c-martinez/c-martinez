@@ -46,11 +46,11 @@ I'm interested in [Open Science](https://www.unesco.org/en/open-science), Open S
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/SS-NES/SS-NES-lesson/issues/10#issuecomment-2470618986) in [SS-NES/SS-NES-lesson](https://github.com/SS-NES/SS-NES-lesson)
-2. 🗣 Commented on [#10](https://github.com/SS-NES/SS-NES-lesson/issues/10#issuecomment-2470585451) in [SS-NES/SS-NES-lesson](https://github.com/SS-NES/SS-NES-lesson)
-3. 🗣 Commented on [#7](https://github.com/SS-NES/SS-NES-lesson/pull/7#issuecomment-2470107635) in [SS-NES/SS-NES-lesson](https://github.com/SS-NES/SS-NES-lesson)
-4. 🗣 Commented on [#7](https://github.com/SS-NES/SS-NES-lesson/pull/7#issuecomment-2468921385) in [SS-NES/SS-NES-lesson](https://github.com/SS-NES/SS-NES-lesson)
-5. 🎉 Merged PR [#497](https://github.com/CLARIAH/grlc/pull/497) in [CLARIAH/grlc](https://github.com/CLARIAH/grlc)
+1. 🗣 Commented on [#85](https://github.com/nl-rse/website/pull/85#issuecomment-2489404528) in [nl-rse/website](https://github.com/nl-rse/website)
+2. 🗣 Commented on [#10](https://github.com/SS-NES/SS-NES-lesson/issues/10#issuecomment-2470618986) in [SS-NES/SS-NES-lesson](https://github.com/SS-NES/SS-NES-lesson)
+3. 🗣 Commented on [#10](https://github.com/SS-NES/SS-NES-lesson/issues/10#issuecomment-2470585451) in [SS-NES/SS-NES-lesson](https://github.com/SS-NES/SS-NES-lesson)
+4. 🗣 Commented on [#7](https://github.com/SS-NES/SS-NES-lesson/pull/7#issuecomment-2470107635) in [SS-NES/SS-NES-lesson](https://github.com/SS-NES/SS-NES-lesson)
+5. 🗣 Commented on [#7](https://github.com/SS-NES/SS-NES-lesson/pull/7#issuecomment-2468921385) in [SS-NES/SS-NES-lesson](https://github.com/SS-NES/SS-NES-lesson)
 <!--END_SECTION:activity-->
 
 ## ![GitHub](icons/github-original.png) My GitHub stats

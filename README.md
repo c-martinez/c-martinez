@@ -46,11 +46,11 @@ I'm interested in [Open Science](https://www.unesco.org/en/open-science), Open S
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#363](https://github.com/NLeSC/guide/pull/363) in [NLeSC/guide](https://github.com/NLeSC/guide)
-2. 🗣 Commented on [#1987](https://github.com/r-lib/usethis/pull/1987#issuecomment-2492199342) in [r-lib/usethis](https://github.com/r-lib/usethis)
-3. 💪 Opened PR [#149](https://github.com/esciencecenter-digital-skills/research-software-support/pull/149) in [esciencecenter-digital-skills/research-software-support](https://github.com/esciencecenter-digital-skills/research-software-support)
-4. 🗣 Commented on [#1987](https://github.com/r-lib/usethis/pull/1987#issuecomment-2491429776) in [r-lib/usethis](https://github.com/r-lib/usethis)
-5. 🗣 Commented on [#85](https://github.com/nl-rse/website/pull/85#issuecomment-2489404528) in [nl-rse/website](https://github.com/nl-rse/website)
+1. 💪 Opened PR [#404](https://github.com/NLeSC/guide/pull/404) in [NLeSC/guide](https://github.com/NLeSC/guide)
+2. 🗣 Commented on [#2419](https://github.com/the-turing-way/the-turing-way/issues/2419#issuecomment-2517624023) in [the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)
+3. 🗣 Commented on [#383](https://github.com/NLeSC/guide/issues/383#issuecomment-2517462317) in [NLeSC/guide](https://github.com/NLeSC/guide)
+4. 🗣 Commented on [#395](https://github.com/NLeSC/guide/pull/395#issuecomment-2516746691) in [NLeSC/guide](https://github.com/NLeSC/guide)
+5. 🎉 Merged PR [#363](https://github.com/NLeSC/guide/pull/363) in [NLeSC/guide](https://github.com/NLeSC/guide)
 <!--END_SECTION:activity-->
 
 ## ![GitHub](icons/github-original.png) My GitHub stats

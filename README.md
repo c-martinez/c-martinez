@@ -46,11 +46,11 @@ I'm interested in [Open Science](https://www.unesco.org/en/open-science), Open S
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#404](https://github.com/NLeSC/guide/pull/404) in [NLeSC/guide](https://github.com/NLeSC/guide)
-2. 🗣 Commented on [#2419](https://github.com/the-turing-way/the-turing-way/issues/2419#issuecomment-2517624023) in [the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)
-3. 🗣 Commented on [#383](https://github.com/NLeSC/guide/issues/383#issuecomment-2517462317) in [NLeSC/guide](https://github.com/NLeSC/guide)
-4. 🗣 Commented on [#395](https://github.com/NLeSC/guide/pull/395#issuecomment-2516746691) in [NLeSC/guide](https://github.com/NLeSC/guide)
-5. 🎉 Merged PR [#363](https://github.com/NLeSC/guide/pull/363) in [NLeSC/guide](https://github.com/NLeSC/guide)
+1. 🗣 Commented on [#374](https://github.com/NLeSC/guide/issues/374#issuecomment-2527762859) in [NLeSC/guide](https://github.com/NLeSC/guide)
+2. 💪 Opened PR [#404](https://github.com/NLeSC/guide/pull/404) in [NLeSC/guide](https://github.com/NLeSC/guide)
+3. 🗣 Commented on [#2419](https://github.com/the-turing-way/the-turing-way/issues/2419#issuecomment-2517624023) in [the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)
+4. 🗣 Commented on [#383](https://github.com/NLeSC/guide/issues/383#issuecomment-2517462317) in [NLeSC/guide](https://github.com/NLeSC/guide)
+5. 🗣 Commented on [#395](https://github.com/NLeSC/guide/pull/395#issuecomment-2516746691) in [NLeSC/guide](https://github.com/NLeSC/guide)
 <!--END_SECTION:activity-->
 
 ## ![GitHub](icons/github-original.png) My GitHub stats

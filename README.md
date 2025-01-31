@@ -46,11 +46,11 @@ I'm interested in [Open Science](https://www.unesco.org/en/open-science), Open S
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#146](https://github.com/esciencecenter-digital-skills/research-software-support/issues/146#issuecomment-2606580860) in [esciencecenter-digital-skills/research-software-support](https://github.com/esciencecenter-digital-skills/research-software-support)
-2. 🗣 Commented on [#146](https://github.com/esciencecenter-digital-skills/research-software-support/issues/146#issuecomment-2604215621) in [esciencecenter-digital-skills/research-software-support](https://github.com/esciencecenter-digital-skills/research-software-support)
-3. 🗣 Commented on [#419](https://github.com/NLeSC/guide/pull/419#issuecomment-2555765884) in [NLeSC/guide](https://github.com/NLeSC/guide)
-4. 🗣 Commented on [#374](https://github.com/NLeSC/guide/issues/374#issuecomment-2527762859) in [NLeSC/guide](https://github.com/NLeSC/guide)
-5. 💪 Opened PR [#404](https://github.com/NLeSC/guide/pull/404) in [NLeSC/guide](https://github.com/NLeSC/guide)
+1. 🗣 Commented on [#500](https://github.com/CLARIAH/grlc/pull/500#issuecomment-2625761418) in [CLARIAH/grlc](https://github.com/CLARIAH/grlc)
+2. 🗣 Commented on [#499](https://github.com/CLARIAH/grlc/pull/499#issuecomment-2625743395) in [CLARIAH/grlc](https://github.com/CLARIAH/grlc)
+3. ❗ Opened issue [#40](https://github.com/nlesc-sigs/soft-skills-sig/issues/40) in [nlesc-sigs/soft-skills-sig](https://github.com/nlesc-sigs/soft-skills-sig)
+4. 🗣 Commented on [#38](https://github.com/nlesc-sigs/soft-skills-sig/issues/38#issuecomment-2621988131) in [nlesc-sigs/soft-skills-sig](https://github.com/nlesc-sigs/soft-skills-sig)
+5. 🗣 Commented on [#146](https://github.com/esciencecenter-digital-skills/research-software-support/issues/146#issuecomment-2606580860) in [esciencecenter-digital-skills/research-software-support](https://github.com/esciencecenter-digital-skills/research-software-support)
 <!--END_SECTION:activity-->
 
 ## ![GitHub](icons/github-original.png) My GitHub stats

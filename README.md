@@ -46,11 +46,11 @@ I'm interested in [Open Science](https://www.unesco.org/en/open-science), Open S
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#500](https://github.com/CLARIAH/grlc/pull/500#issuecomment-2625761418) in [CLARIAH/grlc](https://github.com/CLARIAH/grlc)
-2. 🗣 Commented on [#499](https://github.com/CLARIAH/grlc/pull/499#issuecomment-2625743395) in [CLARIAH/grlc](https://github.com/CLARIAH/grlc)
-3. ❗ Opened issue [#40](https://github.com/nlesc-sigs/soft-skills-sig/issues/40) in [nlesc-sigs/soft-skills-sig](https://github.com/nlesc-sigs/soft-skills-sig)
-4. 🗣 Commented on [#38](https://github.com/nlesc-sigs/soft-skills-sig/issues/38#issuecomment-2621988131) in [nlesc-sigs/soft-skills-sig](https://github.com/nlesc-sigs/soft-skills-sig)
-5. 🗣 Commented on [#146](https://github.com/esciencecenter-digital-skills/research-software-support/issues/146#issuecomment-2606580860) in [esciencecenter-digital-skills/research-software-support](https://github.com/esciencecenter-digital-skills/research-software-support)
+1. ❗ Opened issue [#22](https://github.com/SS-NES/SS-NES-lesson/issues/22) in [SS-NES/SS-NES-lesson](https://github.com/SS-NES/SS-NES-lesson)
+2. 💪 Opened PR [#21](https://github.com/SS-NES/SS-NES-lesson/pull/21) in [SS-NES/SS-NES-lesson](https://github.com/SS-NES/SS-NES-lesson)
+3. 🗣 Commented on [#509](https://github.com/CLARIAH/grlc/issues/509#issuecomment-2629533654) in [CLARIAH/grlc](https://github.com/CLARIAH/grlc)
+4. 🔒 Closed issue [#509](https://github.com/CLARIAH/grlc/issues/509) in [CLARIAH/grlc](https://github.com/CLARIAH/grlc)
+5. 🎉 Merged PR [#508](https://github.com/CLARIAH/grlc/pull/508) in [CLARIAH/grlc](https://github.com/CLARIAH/grlc)
 <!--END_SECTION:activity-->
 
 ## ![GitHub](icons/github-original.png) My GitHub stats

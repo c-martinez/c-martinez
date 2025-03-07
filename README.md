@@ -46,10 +46,10 @@ I'm interested in [Open Science](https://www.unesco.org/en/open-science), Open S
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#22](https://github.com/SS-NES/SS-NES-lesson/issues/22) in [SS-NES/SS-NES-lesson](https://github.com/SS-NES/SS-NES-lesson)
-2. 💪 Opened PR [#21](https://github.com/SS-NES/SS-NES-lesson/pull/21) in [SS-NES/SS-NES-lesson](https://github.com/SS-NES/SS-NES-lesson)
-3. 🗣 Commented on [#509](https://github.com/CLARIAH/grlc/issues/509#issuecomment-2629533654) in [CLARIAH/grlc](https://github.com/CLARIAH/grlc)
-4. 🔒 Closed issue [#509](https://github.com/CLARIAH/grlc/issues/509) in [CLARIAH/grlc](https://github.com/CLARIAH/grlc)
+1. 🗣 Commented on [#270](https://github.com/NLeSC/guide/issues/270#issuecomment-2697620176) in [NLeSC/guide](https://github.com/NLeSC/guide)
+2. 🗣 Commented on [#414](https://github.com/NLeSC/guide/issues/414#issuecomment-2697013775) in [NLeSC/guide](https://github.com/NLeSC/guide)
+3. 🔒 Closed issue [#414](https://github.com/NLeSC/guide/issues/414) in [NLeSC/guide](https://github.com/NLeSC/guide)
+4. 🗣 Commented on [#270](https://github.com/NLeSC/guide/issues/270#issuecomment-2697001119) in [NLeSC/guide](https://github.com/NLeSC/guide)
 5. 🎉 Merged PR [#508](https://github.com/CLARIAH/grlc/pull/508) in [CLARIAH/grlc](https://github.com/CLARIAH/grlc)
 <!--END_SECTION:activity-->
 

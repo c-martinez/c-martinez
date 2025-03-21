@@ -46,11 +46,11 @@ I'm interested in [Open Science](https://www.unesco.org/en/open-science), Open S
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#270](https://github.com/NLeSC/guide/issues/270#issuecomment-2697620176) in [NLeSC/guide](https://github.com/NLeSC/guide)
-2. 🗣 Commented on [#414](https://github.com/NLeSC/guide/issues/414#issuecomment-2697013775) in [NLeSC/guide](https://github.com/NLeSC/guide)
-3. 🔒 Closed issue [#414](https://github.com/NLeSC/guide/issues/414) in [NLeSC/guide](https://github.com/NLeSC/guide)
-4. 🗣 Commented on [#270](https://github.com/NLeSC/guide/issues/270#issuecomment-2697001119) in [NLeSC/guide](https://github.com/NLeSC/guide)
-5. 🎉 Merged PR [#508](https://github.com/CLARIAH/grlc/pull/508) in [CLARIAH/grlc](https://github.com/CLARIAH/grlc)
+1. 🗣 Commented on [#4027](https://github.com/the-turing-way/the-turing-way/issues/4027#issuecomment-2729359332) in [the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)
+2. 🗣 Commented on [#4027](https://github.com/the-turing-way/the-turing-way/issues/4027#issuecomment-2728827403) in [the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)
+3. 🗣 Commented on [#270](https://github.com/NLeSC/guide/issues/270#issuecomment-2697620176) in [NLeSC/guide](https://github.com/NLeSC/guide)
+4. 🗣 Commented on [#414](https://github.com/NLeSC/guide/issues/414#issuecomment-2697013775) in [NLeSC/guide](https://github.com/NLeSC/guide)
+5. 🔒 Closed issue [#414](https://github.com/NLeSC/guide/issues/414) in [NLeSC/guide](https://github.com/NLeSC/guide)
 <!--END_SECTION:activity-->
 
 ## ![GitHub](icons/github-original.png) My GitHub stats

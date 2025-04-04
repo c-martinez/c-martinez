@@ -46,11 +46,11 @@ I'm interested in [Open Science](https://www.unesco.org/en/open-science), Open S
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20](https://github.com/esciencecenter-digital-skills/teamwork-for-research-software-development/issues/20#issuecomment-2747275204) in [esciencecenter-digital-skills/teamwork-for-research-software-development](https://github.com/esciencecenter-digital-skills/teamwork-for-research-software-development)
-2. 🗣 Commented on [#4027](https://github.com/the-turing-way/the-turing-way/issues/4027#issuecomment-2729359332) in [the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)
-3. 🗣 Commented on [#4027](https://github.com/the-turing-way/the-turing-way/issues/4027#issuecomment-2728827403) in [the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)
-4. 🗣 Commented on [#270](https://github.com/NLeSC/guide/issues/270#issuecomment-2697620176) in [NLeSC/guide](https://github.com/NLeSC/guide)
-5. 🗣 Commented on [#414](https://github.com/NLeSC/guide/issues/414#issuecomment-2697013775) in [NLeSC/guide](https://github.com/NLeSC/guide)
+1. 🚀 Published release [March 2025 release](https://github.com/CLARIAH/grlc/releases/tag/v1.3.10) in [CLARIAH/grlc](https://github.com/CLARIAH/grlc)
+2. 🎉 Merged PR [#521](https://github.com/CLARIAH/grlc/pull/521) in [CLARIAH/grlc](https://github.com/CLARIAH/grlc)
+3. 💪 Opened PR [#521](https://github.com/CLARIAH/grlc/pull/521) in [CLARIAH/grlc](https://github.com/CLARIAH/grlc)
+4. 🗣 Commented on [#150](https://github.com/esciencecenter-digital-skills/research-software-support/issues/150#issuecomment-2772515139) in [esciencecenter-digital-skills/research-software-support](https://github.com/esciencecenter-digital-skills/research-software-support)
+5. 💪 Opened PR [#520](https://github.com/CLARIAH/grlc/pull/520) in [CLARIAH/grlc](https://github.com/CLARIAH/grlc)
 <!--END_SECTION:activity-->
 
 ## ![GitHub](icons/github-original.png) My GitHub stats

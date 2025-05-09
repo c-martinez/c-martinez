@@ -46,11 +46,11 @@ I'm interested in [Open Science](https://www.unesco.org/en/open-science), Open S
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#96](https://github.com/ardc-fair-checklist/ardc-fair-checklist.github.io/issues/96#issuecomment-2793293458) in [ardc-fair-checklist/ardc-fair-checklist.github.io](https://github.com/ardc-fair-checklist/ardc-fair-checklist.github.io)
-2. 💪 Opened PR [#1](https://github.com/ricnadamas/docs/pull/1) in [ricnadamas/docs](https://github.com/ricnadamas/docs)
-3. 🗣 Commented on [#96](https://github.com/ardc-fair-checklist/ardc-fair-checklist.github.io/issues/96#issuecomment-2786593825) in [ardc-fair-checklist/ardc-fair-checklist.github.io](https://github.com/ardc-fair-checklist/ardc-fair-checklist.github.io)
-4. 🔒 Closed issue [#20](https://github.com/esciencecenter-digital-skills/teamwork-for-research-software-development/issues/20) in [esciencecenter-digital-skills/teamwork-for-research-software-development](https://github.com/esciencecenter-digital-skills/teamwork-for-research-software-development)
-5. 🎉 Merged PR [#65](https://github.com/esciencecenter-digital-skills/teamwork-for-research-software-development/pull/65) in [esciencecenter-digital-skills/teamwork-for-research-software-development](https://github.com/esciencecenter-digital-skills/teamwork-for-research-software-development)
+1. ❗ Opened issue [#29](https://github.com/zenodraft/action/issues/29) in [zenodraft/action](https://github.com/zenodraft/action)
+2. 🗣 Commented on [#270](https://github.com/NLeSC/guide/issues/270#issuecomment-2852158900) in [NLeSC/guide](https://github.com/NLeSC/guide)
+3. 💪 Opened PR [#440](https://github.com/NLeSC/guide/pull/440) in [NLeSC/guide](https://github.com/NLeSC/guide)
+4. 💪 Opened PR [#439](https://github.com/NLeSC/guide/pull/439) in [NLeSC/guide](https://github.com/NLeSC/guide)
+5. 🗣 Commented on [#96](https://github.com/ardc-fair-checklist/ardc-fair-checklist.github.io/issues/96#issuecomment-2793293458) in [ardc-fair-checklist/ardc-fair-checklist.github.io](https://github.com/ardc-fair-checklist/ardc-fair-checklist.github.io)
 <!--END_SECTION:activity-->
 
 ## ![GitHub](icons/github-original.png) My GitHub stats

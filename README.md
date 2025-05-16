@@ -46,11 +46,11 @@ I'm interested in [Open Science](https://www.unesco.org/en/open-science), Open S
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#29](https://github.com/zenodraft/action/issues/29) in [zenodraft/action](https://github.com/zenodraft/action)
-2. 🗣 Commented on [#270](https://github.com/NLeSC/guide/issues/270#issuecomment-2852158900) in [NLeSC/guide](https://github.com/NLeSC/guide)
-3. 💪 Opened PR [#440](https://github.com/NLeSC/guide/pull/440) in [NLeSC/guide](https://github.com/NLeSC/guide)
-4. 💪 Opened PR [#439](https://github.com/NLeSC/guide/pull/439) in [NLeSC/guide](https://github.com/NLeSC/guide)
-5. 🗣 Commented on [#96](https://github.com/ardc-fair-checklist/ardc-fair-checklist.github.io/issues/96#issuecomment-2793293458) in [ardc-fair-checklist/ardc-fair-checklist.github.io](https://github.com/ardc-fair-checklist/ardc-fair-checklist.github.io)
+1. 🗣 Commented on [#76](https://github.com/esciencecenter-digital-skills/research-software-support/issues/76#issuecomment-2872475133) in [esciencecenter-digital-skills/research-software-support](https://github.com/esciencecenter-digital-skills/research-software-support)
+2. 🗣 Commented on [#4089](https://github.com/the-turing-way/the-turing-way/pull/4089#issuecomment-2872347606) in [the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)
+3. 🔒 Closed issue [#3936](https://github.com/the-turing-way/the-turing-way/issues/3936) in [the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)
+4. 🎉 Merged PR [#4089](https://github.com/the-turing-way/the-turing-way/pull/4089) in [the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)
+5. ❗ Opened issue [#363](https://github.com/EVERSE-ResearchSoftware/RSQKit/issues/363) in [EVERSE-ResearchSoftware/RSQKit](https://github.com/EVERSE-ResearchSoftware/RSQKit)
 <!--END_SECTION:activity-->
 
 ## ![GitHub](icons/github-original.png) My GitHub stats

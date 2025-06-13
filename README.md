@@ -46,11 +46,11 @@ I'm interested in [Open Science](https://www.unesco.org/en/open-science), Open S
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#76](https://github.com/esciencecenter-digital-skills/research-software-support/issues/76#issuecomment-2872475133) in [esciencecenter-digital-skills/research-software-support](https://github.com/esciencecenter-digital-skills/research-software-support)
-2. 🗣 Commented on [#4089](https://github.com/the-turing-way/the-turing-way/pull/4089#issuecomment-2872347606) in [the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)
-3. 🔒 Closed issue [#3936](https://github.com/the-turing-way/the-turing-way/issues/3936) in [the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)
-4. 🎉 Merged PR [#4089](https://github.com/the-turing-way/the-turing-way/pull/4089) in [the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)
-5. ❗ Opened issue [#363](https://github.com/EVERSE-ResearchSoftware/RSQKit/issues/363) in [EVERSE-ResearchSoftware/RSQKit](https://github.com/EVERSE-ResearchSoftware/RSQKit)
+1. 🎉 Merged PR [#3](https://github.com/SS-NES/ss-nes.github.io/pull/3) in [SS-NES/ss-nes.github.io](https://github.com/SS-NES/ss-nes.github.io)
+2. 🎉 Merged PR [#2](https://github.com/SS-NES/ss-nes.github.io/pull/2) in [SS-NES/ss-nes.github.io](https://github.com/SS-NES/ss-nes.github.io)
+3. 💪 Opened PR [#2](https://github.com/SS-NES/ss-nes.github.io/pull/2) in [SS-NES/ss-nes.github.io](https://github.com/SS-NES/ss-nes.github.io)
+4. 🎉 Merged PR [#1](https://github.com/SS-NES/ss-nes.github.io/pull/1) in [SS-NES/ss-nes.github.io](https://github.com/SS-NES/ss-nes.github.io)
+5. 💪 Opened PR [#1](https://github.com/SS-NES/ss-nes.github.io/pull/1) in [SS-NES/ss-nes.github.io](https://github.com/SS-NES/ss-nes.github.io)
 <!--END_SECTION:activity-->
 
 ## ![GitHub](icons/github-original.png) My GitHub stats

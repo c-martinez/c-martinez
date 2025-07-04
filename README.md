@@ -46,11 +46,11 @@ I'm interested in [Open Science](https://www.unesco.org/en/open-science), Open S
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/SS-NES/ss-nes.github.io/pull/3) in [SS-NES/ss-nes.github.io](https://github.com/SS-NES/ss-nes.github.io)
-2. 🎉 Merged PR [#2](https://github.com/SS-NES/ss-nes.github.io/pull/2) in [SS-NES/ss-nes.github.io](https://github.com/SS-NES/ss-nes.github.io)
-3. 💪 Opened PR [#2](https://github.com/SS-NES/ss-nes.github.io/pull/2) in [SS-NES/ss-nes.github.io](https://github.com/SS-NES/ss-nes.github.io)
-4. 🎉 Merged PR [#1](https://github.com/SS-NES/ss-nes.github.io/pull/1) in [SS-NES/ss-nes.github.io](https://github.com/SS-NES/ss-nes.github.io)
-5. 💪 Opened PR [#1](https://github.com/SS-NES/ss-nes.github.io/pull/1) in [SS-NES/ss-nes.github.io](https://github.com/SS-NES/ss-nes.github.io)
+1. 🗣 Commented on [#427](https://github.com/NLeSC/guide/issues/427#issuecomment-3032567371) in [NLeSC/guide](https://github.com/NLeSC/guide)
+2. 🎉 Merged PR [#3](https://github.com/SS-NES/ss-nes.github.io/pull/3) in [SS-NES/ss-nes.github.io](https://github.com/SS-NES/ss-nes.github.io)
+3. 🎉 Merged PR [#2](https://github.com/SS-NES/ss-nes.github.io/pull/2) in [SS-NES/ss-nes.github.io](https://github.com/SS-NES/ss-nes.github.io)
+4. 💪 Opened PR [#2](https://github.com/SS-NES/ss-nes.github.io/pull/2) in [SS-NES/ss-nes.github.io](https://github.com/SS-NES/ss-nes.github.io)
+5. 🎉 Merged PR [#1](https://github.com/SS-NES/ss-nes.github.io/pull/1) in [SS-NES/ss-nes.github.io](https://github.com/SS-NES/ss-nes.github.io)
 <!--END_SECTION:activity-->
 
 ## ![GitHub](icons/github-original.png) My GitHub stats

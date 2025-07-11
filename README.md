@@ -46,11 +46,11 @@ I'm interested in [Open Science](https://www.unesco.org/en/open-science), Open S
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#427](https://github.com/NLeSC/guide/issues/427#issuecomment-3032567371) in [NLeSC/guide](https://github.com/NLeSC/guide)
-2. 🎉 Merged PR [#3](https://github.com/SS-NES/ss-nes.github.io/pull/3) in [SS-NES/ss-nes.github.io](https://github.com/SS-NES/ss-nes.github.io)
-3. 🎉 Merged PR [#2](https://github.com/SS-NES/ss-nes.github.io/pull/2) in [SS-NES/ss-nes.github.io](https://github.com/SS-NES/ss-nes.github.io)
-4. 💪 Opened PR [#2](https://github.com/SS-NES/ss-nes.github.io/pull/2) in [SS-NES/ss-nes.github.io](https://github.com/SS-NES/ss-nes.github.io)
-5. 🎉 Merged PR [#1](https://github.com/SS-NES/ss-nes.github.io/pull/1) in [SS-NES/ss-nes.github.io](https://github.com/SS-NES/ss-nes.github.io)
+1. ❗ Opened issue [#4](https://github.com/DANS-KNAW/rda-gateway/issues/4) in [DANS-KNAW/rda-gateway](https://github.com/DANS-KNAW/rda-gateway)
+2. ❗ Opened issue [#6](https://github.com/DANS-KNAW/rda-annotator/issues/6) in [DANS-KNAW/rda-annotator](https://github.com/DANS-KNAW/rda-annotator)
+3. ❗ Opened issue [#5](https://github.com/DANS-KNAW/rda-annotator/issues/5) in [DANS-KNAW/rda-annotator](https://github.com/DANS-KNAW/rda-annotator)
+4. ❗ Opened issue [#3](https://github.com/DANS-KNAW/rda-gateway/issues/3) in [DANS-KNAW/rda-gateway](https://github.com/DANS-KNAW/rda-gateway)
+5. ❗ Opened issue [#2](https://github.com/DANS-KNAW/rda-gateway/issues/2) in [DANS-KNAW/rda-gateway](https://github.com/DANS-KNAW/rda-gateway)
 <!--END_SECTION:activity-->
 
 ## ![GitHub](icons/github-original.png) My GitHub stats

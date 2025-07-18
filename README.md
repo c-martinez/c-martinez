@@ -46,11 +46,11 @@ I'm interested in [Open Science](https://www.unesco.org/en/open-science), Open S
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4](https://github.com/DANS-KNAW/rda-gateway/issues/4) in [DANS-KNAW/rda-gateway](https://github.com/DANS-KNAW/rda-gateway)
-2. ❗ Opened issue [#6](https://github.com/DANS-KNAW/rda-annotator/issues/6) in [DANS-KNAW/rda-annotator](https://github.com/DANS-KNAW/rda-annotator)
-3. ❗ Opened issue [#5](https://github.com/DANS-KNAW/rda-annotator/issues/5) in [DANS-KNAW/rda-annotator](https://github.com/DANS-KNAW/rda-annotator)
-4. ❗ Opened issue [#3](https://github.com/DANS-KNAW/rda-gateway/issues/3) in [DANS-KNAW/rda-gateway](https://github.com/DANS-KNAW/rda-gateway)
-5. ❗ Opened issue [#2](https://github.com/DANS-KNAW/rda-gateway/issues/2) in [DANS-KNAW/rda-gateway](https://github.com/DANS-KNAW/rda-gateway)
+1. 🗣 Commented on [#527](https://github.com/CLARIAH/grlc/pull/527#issuecomment-3075556740) in [CLARIAH/grlc](https://github.com/CLARIAH/grlc)
+2. 🗣 Commented on [#523](https://github.com/CLARIAH/grlc/pull/523#issuecomment-3075554577) in [CLARIAH/grlc](https://github.com/CLARIAH/grlc)
+3. 🗣 Commented on [#524](https://github.com/CLARIAH/grlc/pull/524#issuecomment-3075546836) in [CLARIAH/grlc](https://github.com/CLARIAH/grlc)
+4. ❌ Closed PR [#524](https://github.com/CLARIAH/grlc/pull/524) in [CLARIAH/grlc](https://github.com/CLARIAH/grlc)
+5. ❗ Opened issue [#8](https://github.com/willynilly/cff-author-updater/issues/8) in [willynilly/cff-author-updater](https://github.com/willynilly/cff-author-updater)
 <!--END_SECTION:activity-->
 
 ## ![GitHub](icons/github-original.png) My GitHub stats

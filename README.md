@@ -46,11 +46,11 @@ I'm interested in [Open Science](https://www.unesco.org/en/open-science), Open S
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4312](https://github.com/the-turing-way/the-turing-way/pull/4312) in [the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)
-2. 🗣 Commented on [#1325](https://github.com/research-software-directory/RSD-as-a-service/issues/1325#issuecomment-3108823306) in [research-software-directory/RSD-as-a-service](https://github.com/research-software-directory/RSD-as-a-service)
-3. 🗣 Commented on [#527](https://github.com/CLARIAH/grlc/pull/527#issuecomment-3075556740) in [CLARIAH/grlc](https://github.com/CLARIAH/grlc)
-4. 🗣 Commented on [#523](https://github.com/CLARIAH/grlc/pull/523#issuecomment-3075554577) in [CLARIAH/grlc](https://github.com/CLARIAH/grlc)
-5. 🗣 Commented on [#524](https://github.com/CLARIAH/grlc/pull/524#issuecomment-3075546836) in [CLARIAH/grlc](https://github.com/CLARIAH/grlc)
+1. 🗣 Commented on [#2419](https://github.com/the-turing-way/the-turing-way/issues/2419#issuecomment-3133686985) in [the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)
+2. 🔒 Closed issue [#2419](https://github.com/the-turing-way/the-turing-way/issues/2419) in [the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)
+3. 🎉 Merged PR [#4312](https://github.com/the-turing-way/the-turing-way/pull/4312) in [the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)
+4. 🗣 Commented on [#4312](https://github.com/the-turing-way/the-turing-way/pull/4312#issuecomment-3132446831) in [the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)
+5. 🗣 Commented on [#4312](https://github.com/the-turing-way/the-turing-way/pull/4312#issuecomment-3127656745) in [the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)
 <!--END_SECTION:activity-->
 
 ## ![GitHub](icons/github-original.png) My GitHub stats

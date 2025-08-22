@@ -46,11 +46,11 @@ I'm interested in [Open Science](https://www.unesco.org/en/open-science), Open S
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2419](https://github.com/the-turing-way/the-turing-way/issues/2419#issuecomment-3133686985) in [the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)
-2. 🔒 Closed issue [#2419](https://github.com/the-turing-way/the-turing-way/issues/2419) in [the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)
-3. 🎉 Merged PR [#4312](https://github.com/the-turing-way/the-turing-way/pull/4312) in [the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)
-4. 🗣 Commented on [#4312](https://github.com/the-turing-way/the-turing-way/pull/4312#issuecomment-3132446831) in [the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)
-5. 🗣 Commented on [#4312](https://github.com/the-turing-way/the-turing-way/pull/4312#issuecomment-3127656745) in [the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)
+1. ❗ Opened issue [#90](https://github.com/SS-NES/docassemble-SMPDecisionTree/issues/90) in [SS-NES/docassemble-SMPDecisionTree](https://github.com/SS-NES/docassemble-SMPDecisionTree)
+2. 🗣 Commented on [#2419](https://github.com/the-turing-way/the-turing-way/issues/2419#issuecomment-3133686985) in [the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)
+3. 🔒 Closed issue [#2419](https://github.com/the-turing-way/the-turing-way/issues/2419) in [the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)
+4. 🎉 Merged PR [#4312](https://github.com/the-turing-way/the-turing-way/pull/4312) in [the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)
+5. 🗣 Commented on [#4312](https://github.com/the-turing-way/the-turing-way/pull/4312#issuecomment-3132446831) in [the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)
 <!--END_SECTION:activity-->
 
 ## ![GitHub](icons/github-original.png) My GitHub stats

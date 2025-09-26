@@ -46,7 +46,7 @@ I'm interested in [Open Science](https://www.unesco.org/en/open-science), Open S
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#90](https://github.com/SS-NES/docassemble-SMPDecisionTree/issues/90) in [SS-NES/docassemble-SMPDecisionTree](https://github.com/SS-NES/docassemble-SMPDecisionTree)
+1. ❗ Opened issue [#699](https://github.com/NLeSC/python-template/issues/699) in [NLeSC/python-template](https://github.com/NLeSC/python-template)
 2. 🗣 Commented on [#2419](https://github.com/the-turing-way/the-turing-way/issues/2419#issuecomment-3133686985) in [the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)
 3. 🔒 Closed issue [#2419](https://github.com/the-turing-way/the-turing-way/issues/2419) in [the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)
 4. 🎉 Merged PR [#4312](https://github.com/the-turing-way/the-turing-way/pull/4312) in [the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)

@@ -46,11 +46,11 @@ I'm interested in [Open Science](https://www.unesco.org/en/open-science), Open S
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#699](https://github.com/NLeSC/python-template/issues/699) in [NLeSC/python-template](https://github.com/NLeSC/python-template)
-2. 🗣 Commented on [#2419](https://github.com/the-turing-way/the-turing-way/issues/2419#issuecomment-3133686985) in [the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)
-3. 🔒 Closed issue [#2419](https://github.com/the-turing-way/the-turing-way/issues/2419) in [the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)
-4. 🎉 Merged PR [#4312](https://github.com/the-turing-way/the-turing-way/pull/4312) in [the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)
-5. 🗣 Commented on [#4312](https://github.com/the-turing-way/the-turing-way/pull/4312#issuecomment-3132446831) in [the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)
+1. 🗣 Commented on [#149](https://github.com/esciencecenter-digital-skills/research-software-support/pull/149#issuecomment-3408915282) in [esciencecenter-digital-skills/research-software-support](https://github.com/esciencecenter-digital-skills/research-software-support)
+2. 🔒 Closed issue [#477](https://github.com/CLARIAH/grlc/issues/477) in [CLARIAH/grlc](https://github.com/CLARIAH/grlc)
+3. 🗣 Commented on [#477](https://github.com/CLARIAH/grlc/issues/477#issuecomment-3358172866) in [CLARIAH/grlc](https://github.com/CLARIAH/grlc)
+4. 🗣 Commented on [#486](https://github.com/CLARIAH/grlc/issues/486#issuecomment-3358153847) in [CLARIAH/grlc](https://github.com/CLARIAH/grlc)
+5. 🔒 Closed issue [#486](https://github.com/CLARIAH/grlc/issues/486) in [CLARIAH/grlc](https://github.com/CLARIAH/grlc)
 <!--END_SECTION:activity-->
 
 ## ![GitHub](icons/github-original.png) My GitHub stats

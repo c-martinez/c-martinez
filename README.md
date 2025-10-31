@@ -46,11 +46,11 @@ I'm interested in [Open Science](https://www.unesco.org/en/open-science), Open S
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#149](https://github.com/esciencecenter-digital-skills/research-software-support/pull/149#issuecomment-3421666043) in [esciencecenter-digital-skills/research-software-support](https://github.com/esciencecenter-digital-skills/research-software-support)
-2. 🗣 Commented on [#149](https://github.com/esciencecenter-digital-skills/research-software-support/pull/149#issuecomment-3421442922) in [esciencecenter-digital-skills/research-software-support](https://github.com/esciencecenter-digital-skills/research-software-support)
-3. 🗣 Commented on [#149](https://github.com/esciencecenter-digital-skills/research-software-support/pull/149#issuecomment-3408915282) in [esciencecenter-digital-skills/research-software-support](https://github.com/esciencecenter-digital-skills/research-software-support)
-4. 🔒 Closed issue [#477](https://github.com/CLARIAH/grlc/issues/477) in [CLARIAH/grlc](https://github.com/CLARIAH/grlc)
-5. 🗣 Commented on [#477](https://github.com/CLARIAH/grlc/issues/477#issuecomment-3358172866) in [CLARIAH/grlc](https://github.com/CLARIAH/grlc)
+1. ❗ Opened issue [#4](https://github.com/code-cafes-nl/website_template/issues/4) in [code-cafes-nl/website_template](https://github.com/code-cafes-nl/website_template)
+2. 🗣 Commented on [#149](https://github.com/esciencecenter-digital-skills/research-software-support/pull/149#issuecomment-3421666043) in [esciencecenter-digital-skills/research-software-support](https://github.com/esciencecenter-digital-skills/research-software-support)
+3. 🗣 Commented on [#149](https://github.com/esciencecenter-digital-skills/research-software-support/pull/149#issuecomment-3421442922) in [esciencecenter-digital-skills/research-software-support](https://github.com/esciencecenter-digital-skills/research-software-support)
+4. 🗣 Commented on [#149](https://github.com/esciencecenter-digital-skills/research-software-support/pull/149#issuecomment-3408915282) in [esciencecenter-digital-skills/research-software-support](https://github.com/esciencecenter-digital-skills/research-software-support)
+5. 🔒 Closed issue [#477](https://github.com/CLARIAH/grlc/issues/477) in [CLARIAH/grlc](https://github.com/CLARIAH/grlc)
 <!--END_SECTION:activity-->
 
 ## ![GitHub](icons/github-original.png) My GitHub stats

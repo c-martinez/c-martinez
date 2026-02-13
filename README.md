@@ -46,11 +46,11 @@ I'm interested in [Open Science](https://www.unesco.org/en/open-science), Open S
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#540](https://github.com/CLARIAH/grlc/issues/540#issuecomment-3774655070) in [CLARIAH/grlc](https://github.com/CLARIAH/grlc)
-2. ℹ️ Assigned issue [#540](https://github.com/CLARIAH/grlc/issues/540) in [CLARIAH/grlc](https://github.com/CLARIAH/grlc)
-3. 🗣 Commented on [#149](https://github.com/esciencecenter-digital-skills/research-software-support/pull/149#issuecomment-3421442922) in [esciencecenter-digital-skills/research-software-support](https://github.com/esciencecenter-digital-skills/research-software-support)
-4. 🗣 Commented on [#149](https://github.com/esciencecenter-digital-skills/research-software-support/pull/149#issuecomment-3408915282) in [esciencecenter-digital-skills/research-software-support](https://github.com/esciencecenter-digital-skills/research-software-support)
-5. 🔒 Closed issue [#477](https://github.com/CLARIAH/grlc/issues/477) in [CLARIAH/grlc](https://github.com/CLARIAH/grlc)
+1. 🎉 Merged PR [#7](https://github.com/SS-NES/ss-nes.github.io/pull/7) in [SS-NES/ss-nes.github.io](https://github.com/SS-NES/ss-nes.github.io)
+2. 🗣 Commented on [#6](https://github.com/SS-NES/ss-nes.github.io/pull/6#issuecomment-3890743510) in [SS-NES/ss-nes.github.io](https://github.com/SS-NES/ss-nes.github.io)
+3. 💪 Opened PR [#7](https://github.com/SS-NES/ss-nes.github.io/pull/7) in [SS-NES/ss-nes.github.io](https://github.com/SS-NES/ss-nes.github.io)
+4. 🗣 Commented on [#540](https://github.com/CLARIAH/grlc/issues/540#issuecomment-3774655070) in [CLARIAH/grlc](https://github.com/CLARIAH/grlc)
+5. ℹ️ Assigned issue [#540](https://github.com/CLARIAH/grlc/issues/540) in [CLARIAH/grlc](https://github.com/CLARIAH/grlc)
 <!--END_SECTION:activity-->
 
 ## ![GitHub](icons/github-original.png) My GitHub stats

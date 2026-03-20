@@ -46,11 +46,11 @@ I'm interested in [Open Science](https://www.unesco.org/en/open-science), Open S
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#553](https://github.com/CLARIAH/grlc/pull/553#issuecomment-3993041333) in [CLARIAH/grlc](https://github.com/CLARIAH/grlc)
-2. 🗣 Commented on [#554](https://github.com/CLARIAH/grlc/pull/554#issuecomment-3992990705) in [CLARIAH/grlc](https://github.com/CLARIAH/grlc)
-3. ℹ️ Assigned issue [#552](https://github.com/CLARIAH/grlc/issues/552) in [CLARIAH/grlc](https://github.com/CLARIAH/grlc)
-4. ❗ Opened issue [#552](https://github.com/CLARIAH/grlc/issues/552) in [CLARIAH/grlc](https://github.com/CLARIAH/grlc)
-5. 🗣 Commented on [#550](https://github.com/CLARIAH/grlc/pull/550#issuecomment-3977842156) in [CLARIAH/grlc](https://github.com/CLARIAH/grlc)
+1. 🗣 Commented on [#551](https://github.com/CLARIAH/grlc/issues/551#issuecomment-4085846842) in [CLARIAH/grlc](https://github.com/CLARIAH/grlc)
+2. 🗣 Commented on [#547](https://github.com/CLARIAH/grlc/pull/547#issuecomment-4078043947) in [CLARIAH/grlc](https://github.com/CLARIAH/grlc)
+3. 🗣 Commented on [#553](https://github.com/CLARIAH/grlc/pull/553#issuecomment-3993041333) in [CLARIAH/grlc](https://github.com/CLARIAH/grlc)
+4. 🗣 Commented on [#554](https://github.com/CLARIAH/grlc/pull/554#issuecomment-3992990705) in [CLARIAH/grlc](https://github.com/CLARIAH/grlc)
+5. ℹ️ Assigned issue [#552](https://github.com/CLARIAH/grlc/issues/552) in [CLARIAH/grlc](https://github.com/CLARIAH/grlc)
 <!--END_SECTION:activity-->
 
 ## ![GitHub](icons/github-original.png) My GitHub stats

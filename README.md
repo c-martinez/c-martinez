@@ -46,11 +46,11 @@ I'm interested in [Open Science](https://www.unesco.org/en/open-science), Open S
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [May 2026 release](https://github.com/CLARIAH/grlc/releases/tag/v1.3.11) in [CLARIAH/grlc](https://github.com/CLARIAH/grlc)
-2. 🎉 Merged PR [#572](https://github.com/CLARIAH/grlc/pull/572) in [CLARIAH/grlc](https://github.com/CLARIAH/grlc)
-3. 💪 Opened PR [#572](https://github.com/CLARIAH/grlc/pull/572) in [CLARIAH/grlc](https://github.com/CLARIAH/grlc)
-4. 🎉 Merged PR [#571](https://github.com/CLARIAH/grlc/pull/571) in [CLARIAH/grlc](https://github.com/CLARIAH/grlc)
-5. 💪 Opened PR [#571](https://github.com/CLARIAH/grlc/pull/571) in [CLARIAH/grlc](https://github.com/CLARIAH/grlc)
+1. ❗ Opened issue [#11](https://github.com/nlesc-sigs/SQS-sig/issues/11) in [nlesc-sigs/SQS-sig](https://github.com/nlesc-sigs/SQS-sig)
+2. 🎉 Merged PR [#99](https://github.com/SS-NES/docassemble-SMPDecisionTree/pull/99) in [SS-NES/docassemble-SMPDecisionTree](https://github.com/SS-NES/docassemble-SMPDecisionTree)
+3. 💪 Opened PR [#99](https://github.com/SS-NES/docassemble-SMPDecisionTree/pull/99) in [SS-NES/docassemble-SMPDecisionTree](https://github.com/SS-NES/docassemble-SMPDecisionTree)
+4. 💪 Opened PR [#4629](https://github.com/the-turing-way/the-turing-way/pull/4629) in [the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)
+5. 🚀 Published release [May 2026 release](https://github.com/CLARIAH/grlc/releases/tag/v1.3.11) in [CLARIAH/grlc](https://github.com/CLARIAH/grlc)
 <!--END_SECTION:activity-->
 
 ## ![GitHub](icons/github-original.png) My GitHub stats

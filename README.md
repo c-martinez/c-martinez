@@ -46,11 +46,11 @@ I'm interested in [Open Science](https://www.unesco.org/en/open-science), Open S
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#682](https://github.com/research-software-directory/RSD-as-a-service/issues/682#issuecomment-4571919663) in [research-software-directory/RSD-as-a-service](https://github.com/research-software-directory/RSD-as-a-service)
-2. ❗ Opened issue [#11](https://github.com/nlesc-sigs/SQS-sig/issues/11) in [nlesc-sigs/SQS-sig](https://github.com/nlesc-sigs/SQS-sig)
-3. 🎉 Merged PR [#99](https://github.com/SS-NES/docassemble-SMPDecisionTree/pull/99) in [SS-NES/docassemble-SMPDecisionTree](https://github.com/SS-NES/docassemble-SMPDecisionTree)
-4. 💪 Opened PR [#99](https://github.com/SS-NES/docassemble-SMPDecisionTree/pull/99) in [SS-NES/docassemble-SMPDecisionTree](https://github.com/SS-NES/docassemble-SMPDecisionTree)
-5. 💪 Opened PR [#4629](https://github.com/the-turing-way/the-turing-way/pull/4629) in [the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)
+1. 🗣 Commented on [#682](https://github.com/EVERSE-ResearchSoftware/RSQKit/issues/682#issuecomment-4923366125) in [EVERSE-ResearchSoftware/RSQKit](https://github.com/EVERSE-ResearchSoftware/RSQKit)
+2. 💪 Opened PR [#100](https://github.com/EVERSE-ResearchSoftware/QualityPipelines/pull/100) in [EVERSE-ResearchSoftware/QualityPipelines](https://github.com/EVERSE-ResearchSoftware/QualityPipelines)
+3. ℹ️ Labeled issue [#99](https://github.com/EVERSE-ResearchSoftware/QualityPipelines/issues/99) in [EVERSE-ResearchSoftware/QualityPipelines](https://github.com/EVERSE-ResearchSoftware/QualityPipelines)
+4. ❗ Opened issue [#99](https://github.com/EVERSE-ResearchSoftware/QualityPipelines/issues/99) in [EVERSE-ResearchSoftware/QualityPipelines](https://github.com/EVERSE-ResearchSoftware/QualityPipelines)
+5. ℹ️ Labeled issue [#98](https://github.com/EVERSE-ResearchSoftware/QualityPipelines/issues/98) in [EVERSE-ResearchSoftware/QualityPipelines](https://github.com/EVERSE-ResearchSoftware/QualityPipelines)
 <!--END_SECTION:activity-->
 
 ## ![GitHub](icons/github-original.png) My GitHub stats

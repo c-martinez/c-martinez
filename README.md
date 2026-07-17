@@ -46,11 +46,11 @@ I'm interested in [Open Science](https://www.unesco.org/en/open-science), Open S
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#682](https://github.com/EVERSE-ResearchSoftware/RSQKit/issues/682#issuecomment-4923366125) in [EVERSE-ResearchSoftware/RSQKit](https://github.com/EVERSE-ResearchSoftware/RSQKit)
-2. 💪 Opened PR [#100](https://github.com/EVERSE-ResearchSoftware/QualityPipelines/pull/100) in [EVERSE-ResearchSoftware/QualityPipelines](https://github.com/EVERSE-ResearchSoftware/QualityPipelines)
-3. ℹ️ Labeled issue [#99](https://github.com/EVERSE-ResearchSoftware/QualityPipelines/issues/99) in [EVERSE-ResearchSoftware/QualityPipelines](https://github.com/EVERSE-ResearchSoftware/QualityPipelines)
-4. ❗ Opened issue [#99](https://github.com/EVERSE-ResearchSoftware/QualityPipelines/issues/99) in [EVERSE-ResearchSoftware/QualityPipelines](https://github.com/EVERSE-ResearchSoftware/QualityPipelines)
-5. ℹ️ Labeled issue [#98](https://github.com/EVERSE-ResearchSoftware/QualityPipelines/issues/98) in [EVERSE-ResearchSoftware/QualityPipelines](https://github.com/EVERSE-ResearchSoftware/QualityPipelines)
+1. 🗣 Commented on [#465](https://github.com/NLeSC/guide/issues/465#issuecomment-4980841779) in [NLeSC/guide](https://github.com/NLeSC/guide)
+2. ❗ Opened issue [#465](https://github.com/NLeSC/guide/issues/465) in [NLeSC/guide](https://github.com/NLeSC/guide)
+3. ℹ️ Assigned issue [#465](https://github.com/NLeSC/guide/issues/465) in [NLeSC/guide](https://github.com/NLeSC/guide)
+4. ℹ️ Assigned issue [#465](https://github.com/NLeSC/guide/issues/465) in [NLeSC/guide](https://github.com/NLeSC/guide)
+5. 🗣 Commented on [#682](https://github.com/EVERSE-ResearchSoftware/RSQKit/issues/682#issuecomment-4923366125) in [EVERSE-ResearchSoftware/RSQKit](https://github.com/EVERSE-ResearchSoftware/RSQKit)
 <!--END_SECTION:activity-->
 
 ## ![GitHub](icons/github-original.png) My GitHub stats

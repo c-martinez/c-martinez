@@ -46,11 +46,11 @@ I'm interested in [Open Science](https://www.unesco.org/en/open-science), Open S
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#465](https://github.com/NLeSC/guide/issues/465#issuecomment-4980841779) in [NLeSC/guide](https://github.com/NLeSC/guide)
-2. ❗ Opened issue [#465](https://github.com/NLeSC/guide/issues/465) in [NLeSC/guide](https://github.com/NLeSC/guide)
-3. ℹ️ Assigned issue [#465](https://github.com/NLeSC/guide/issues/465) in [NLeSC/guide](https://github.com/NLeSC/guide)
-4. ℹ️ Assigned issue [#465](https://github.com/NLeSC/guide/issues/465) in [NLeSC/guide](https://github.com/NLeSC/guide)
-5. 🗣 Commented on [#682](https://github.com/EVERSE-ResearchSoftware/RSQKit/issues/682#issuecomment-4923366125) in [EVERSE-ResearchSoftware/RSQKit](https://github.com/EVERSE-ResearchSoftware/RSQKit)
+1. 🗣 Commented on [#578](https://github.com/CLARIAH/grlc/issues/578#issuecomment-5063311914) in [CLARIAH/grlc](https://github.com/CLARIAH/grlc)
+2. 🔒 Closed issue [#578](https://github.com/CLARIAH/grlc/issues/578) in [CLARIAH/grlc](https://github.com/CLARIAH/grlc)
+3. 🗣 Commented on [#573](https://github.com/CLARIAH/grlc/issues/573#issuecomment-5063053990) in [CLARIAH/grlc](https://github.com/CLARIAH/grlc)
+4. 🗣 Commented on [#482](https://github.com/CLARIAH/grlc/issues/482#issuecomment-5061438000) in [CLARIAH/grlc](https://github.com/CLARIAH/grlc)
+5. 🔒 Closed issue [#482](https://github.com/CLARIAH/grlc/issues/482) in [CLARIAH/grlc](https://github.com/CLARIAH/grlc)
 <!--END_SECTION:activity-->
 
 ## ![GitHub](icons/github-original.png) My GitHub stats

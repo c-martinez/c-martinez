@@ -46,11 +46,11 @@ I'm interested in [Open Science](https://www.unesco.org/en/open-science), Open S
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#578](https://github.com/CLARIAH/grlc/issues/578#issuecomment-5063311914) in [CLARIAH/grlc](https://github.com/CLARIAH/grlc)
-2. 🔒 Closed issue [#578](https://github.com/CLARIAH/grlc/issues/578) in [CLARIAH/grlc](https://github.com/CLARIAH/grlc)
-3. 🗣 Commented on [#573](https://github.com/CLARIAH/grlc/issues/573#issuecomment-5063053990) in [CLARIAH/grlc](https://github.com/CLARIAH/grlc)
-4. 🗣 Commented on [#482](https://github.com/CLARIAH/grlc/issues/482#issuecomment-5061438000) in [CLARIAH/grlc](https://github.com/CLARIAH/grlc)
-5. 🔒 Closed issue [#482](https://github.com/CLARIAH/grlc/issues/482) in [CLARIAH/grlc](https://github.com/CLARIAH/grlc)
+1. 🗣 Commented on [#573](https://github.com/CLARIAH/grlc/issues/573#issuecomment-5123569206) in [CLARIAH/grlc](https://github.com/CLARIAH/grlc)
+2. 🗣 Commented on [#73](https://github.com/EVERSE-ResearchSoftware/QualityPipelines/issues/73#issuecomment-5090661491) in [EVERSE-ResearchSoftware/QualityPipelines](https://github.com/EVERSE-ResearchSoftware/QualityPipelines)
+3. 🗣 Commented on [#578](https://github.com/CLARIAH/grlc/issues/578#issuecomment-5063311914) in [CLARIAH/grlc](https://github.com/CLARIAH/grlc)
+4. 🔒 Closed issue [#578](https://github.com/CLARIAH/grlc/issues/578) in [CLARIAH/grlc](https://github.com/CLARIAH/grlc)
+5. 🗣 Commented on [#573](https://github.com/CLARIAH/grlc/issues/573#issuecomment-5063053990) in [CLARIAH/grlc](https://github.com/CLARIAH/grlc)
 <!--END_SECTION:activity-->
 
 ## ![GitHub](icons/github-original.png) My GitHub stats

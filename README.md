@@ -46,10 +46,10 @@ I'm interested in [Open Science](https://www.unesco.org/en/open-science), Open S
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#581](https://github.com/CLARIAH/grlc/pull/581) in [CLARIAH/grlc](https://github.com/CLARIAH/grlc)
-2. 🗣 Commented on [#573](https://github.com/CLARIAH/grlc/issues/573#issuecomment-5123569206) in [CLARIAH/grlc](https://github.com/CLARIAH/grlc)
-3. 🗣 Commented on [#73](https://github.com/EVERSE-ResearchSoftware/QualityPipelines/issues/73#issuecomment-5090661491) in [EVERSE-ResearchSoftware/QualityPipelines](https://github.com/EVERSE-ResearchSoftware/QualityPipelines)
-4. 🗣 Commented on [#578](https://github.com/CLARIAH/grlc/issues/578#issuecomment-5063311914) in [CLARIAH/grlc](https://github.com/CLARIAH/grlc)
+1. 🗣 Commented on [#162](https://github.com/nl-rse/website/issues/162#issuecomment-5424882699) in [nl-rse/website](https://github.com/nl-rse/website)
+2. 🗣 Commented on [#20](https://github.com/code-cafes-nl/cafe_playbook/issues/20#issuecomment-5409875622) in [code-cafes-nl/cafe_playbook](https://github.com/code-cafes-nl/cafe_playbook)
+3. 💪 Opened PR [#581](https://github.com/CLARIAH/grlc/pull/581) in [CLARIAH/grlc](https://github.com/CLARIAH/grlc)
+4. 🗣 Commented on [#573](https://github.com/CLARIAH/grlc/issues/573#issuecomment-5123569206) in [CLARIAH/grlc](https://github.com/CLARIAH/grlc)
 5. 🔒 Closed issue [#578](https://github.com/CLARIAH/grlc/issues/578) in [CLARIAH/grlc](https://github.com/CLARIAH/grlc)
 <!--END_SECTION:activity-->
 

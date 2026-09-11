@@ -46,11 +46,11 @@ I'm interested in [Open Science](https://www.unesco.org/en/open-science), Open S
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#77](https://github.com/NLeSC/blog/pull/77#issuecomment-5523765137) in [NLeSC/blog](https://github.com/NLeSC/blog)
-2. 💪 Opened PR [#77](https://github.com/NLeSC/blog/pull/77) in [NLeSC/blog](https://github.com/NLeSC/blog)
-3. 🗣 Commented on [#162](https://github.com/nl-rse/website/issues/162#issuecomment-5424882699) in [nl-rse/website](https://github.com/nl-rse/website)
-4. 🗣 Commented on [#20](https://github.com/code-cafes-nl/cafe_playbook/issues/20#issuecomment-5409875622) in [code-cafes-nl/cafe_playbook](https://github.com/code-cafes-nl/cafe_playbook)
-5. 💪 Opened PR [#581](https://github.com/CLARIAH/grlc/pull/581) in [CLARIAH/grlc](https://github.com/CLARIAH/grlc)
+1. 🗣 Commented on [#77](https://github.com/NLeSC/blog/pull/77#issuecomment-5616194824) in [NLeSC/blog](https://github.com/NLeSC/blog)
+2. 🎉 Merged PR [#77](https://github.com/NLeSC/blog/pull/77) in [NLeSC/blog](https://github.com/NLeSC/blog)
+3. 🗣 Commented on [#77](https://github.com/NLeSC/blog/pull/77#issuecomment-5523765137) in [NLeSC/blog](https://github.com/NLeSC/blog)
+4. 💪 Opened PR [#77](https://github.com/NLeSC/blog/pull/77) in [NLeSC/blog](https://github.com/NLeSC/blog)
+5. 🗣 Commented on [#162](https://github.com/nl-rse/website/issues/162#issuecomment-5424882699) in [nl-rse/website](https://github.com/nl-rse/website)
 <!--END_SECTION:activity-->
 
 ## ![GitHub](icons/github-original.png) My GitHub stats

@@ -46,11 +46,11 @@ I'm interested in [Open Science](https://www.unesco.org/en/open-science), Open S
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#77](https://github.com/NLeSC/blog/pull/77#issuecomment-5616194824) in [NLeSC/blog](https://github.com/NLeSC/blog)
-2. 🎉 Merged PR [#77](https://github.com/NLeSC/blog/pull/77) in [NLeSC/blog](https://github.com/NLeSC/blog)
-3. 🗣 Commented on [#77](https://github.com/NLeSC/blog/pull/77#issuecomment-5523765137) in [NLeSC/blog](https://github.com/NLeSC/blog)
-4. 💪 Opened PR [#77](https://github.com/NLeSC/blog/pull/77) in [NLeSC/blog](https://github.com/NLeSC/blog)
-5. 🗣 Commented on [#162](https://github.com/nl-rse/website/issues/162#issuecomment-5424882699) in [nl-rse/website](https://github.com/nl-rse/website)
+1. ℹ️ Labeled issue [#135](https://github.com/EVERSE-ResearchSoftware/QualityPipelines/issues/135) in [EVERSE-ResearchSoftware/QualityPipelines](https://github.com/EVERSE-ResearchSoftware/QualityPipelines)
+2. ❗ Opened issue [#135](https://github.com/EVERSE-ResearchSoftware/QualityPipelines/issues/135) in [EVERSE-ResearchSoftware/QualityPipelines](https://github.com/EVERSE-ResearchSoftware/QualityPipelines)
+3. 🎉 Merged PR [#100](https://github.com/EVERSE-ResearchSoftware/QualityPipelines/pull/100) in [EVERSE-ResearchSoftware/QualityPipelines](https://github.com/EVERSE-ResearchSoftware/QualityPipelines)
+4. 🗣 Commented on [#465](https://github.com/NLeSC/guide/issues/465#issuecomment-5679478343) in [NLeSC/guide](https://github.com/NLeSC/guide)
+5. 🗣 Commented on [#77](https://github.com/NLeSC/blog/pull/77#issuecomment-5616194824) in [NLeSC/blog](https://github.com/NLeSC/blog)
 <!--END_SECTION:activity-->
 
 ## ![GitHub](icons/github-original.png) My GitHub stats

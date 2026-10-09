@@ -46,11 +46,11 @@ I'm interested in [Open Science](https://www.unesco.org/en/open-science), Open S
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#165](https://github.com/nl-rse/website/issues/165#issuecomment-5908385374) in [nl-rse/website](https://github.com/nl-rse/website)
-2. 🗣 Commented on [#465](https://github.com/NLeSC/guide/issues/465#issuecomment-5869819784) in [NLeSC/guide](https://github.com/NLeSC/guide)
-3. ❗ Opened issue [#97](https://github.com/EVERSE-ResearchSoftware/DashVERSE/issues/97) in [EVERSE-ResearchSoftware/DashVERSE](https://github.com/EVERSE-ResearchSoftware/DashVERSE)
-4. ℹ️ Labeled issue [#135](https://github.com/EVERSE-ResearchSoftware/QualityPipelines/issues/135) in [EVERSE-ResearchSoftware/QualityPipelines](https://github.com/EVERSE-ResearchSoftware/QualityPipelines)
-5. ❗ Opened issue [#135](https://github.com/EVERSE-ResearchSoftware/QualityPipelines/issues/135) in [EVERSE-ResearchSoftware/QualityPipelines](https://github.com/EVERSE-ResearchSoftware/QualityPipelines)
+1. 🗣 Commented on [#4629](https://github.com/the-turing-way/the-turing-way/pull/4629#issuecomment-6067883903) in [the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)
+2. 🎉 Merged PR [#4629](https://github.com/the-turing-way/the-turing-way/pull/4629) in [the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)
+3. 🗣 Commented on [#4629](https://github.com/the-turing-way/the-turing-way/pull/4629#issuecomment-6044360144) in [the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)
+4. 🎉 Merged PR [#179](https://github.com/nl-rse/website/pull/179) in [nl-rse/website](https://github.com/nl-rse/website)
+5. 🗣 Commented on [#179](https://github.com/nl-rse/website/pull/179#issuecomment-6035489620) in [nl-rse/website](https://github.com/nl-rse/website)
 <!--END_SECTION:activity-->
 
 ## ![GitHub](icons/github-original.png) My GitHub stats

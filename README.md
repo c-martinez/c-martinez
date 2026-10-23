@@ -46,11 +46,11 @@ I'm interested in [Open Science](https://www.unesco.org/en/open-science), Open S
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#261](https://github.com/esciencecenter-digital-skills/research-software-support/pull/261) in [esciencecenter-digital-skills/research-software-support](https://github.com/esciencecenter-digital-skills/research-software-support)
-2. 💪 Opened PR [#261](https://github.com/esciencecenter-digital-skills/research-software-support/pull/261) in [esciencecenter-digital-skills/research-software-support](https://github.com/esciencecenter-digital-skills/research-software-support)
-3. 🗣 Commented on [#179](https://github.com/nl-rse/website/pull/179#issuecomment-6076540771) in [nl-rse/website](https://github.com/nl-rse/website)
-4. 🗣 Commented on [#4629](https://github.com/the-turing-way/the-turing-way/pull/4629#issuecomment-6067883903) in [the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)
-5. 🎉 Merged PR [#4629](https://github.com/the-turing-way/the-turing-way/pull/4629) in [the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)
+1. 🗣 Commented on [#1876](https://github.com/research-software-directory/RSD-as-a-service/issues/1876#issuecomment-6218138484) in [research-software-directory/RSD-as-a-service](https://github.com/research-software-directory/RSD-as-a-service)
+2. 🎉 Merged PR [#261](https://github.com/esciencecenter-digital-skills/research-software-support/pull/261) in [esciencecenter-digital-skills/research-software-support](https://github.com/esciencecenter-digital-skills/research-software-support)
+3. 💪 Opened PR [#261](https://github.com/esciencecenter-digital-skills/research-software-support/pull/261) in [esciencecenter-digital-skills/research-software-support](https://github.com/esciencecenter-digital-skills/research-software-support)
+4. 🗣 Commented on [#179](https://github.com/nl-rse/website/pull/179#issuecomment-6076540771) in [nl-rse/website](https://github.com/nl-rse/website)
+5. 🗣 Commented on [#4629](https://github.com/the-turing-way/the-turing-way/pull/4629#issuecomment-6067883903) in [the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)
 <!--END_SECTION:activity-->
 
 ## ![GitHub](icons/github-original.png) My GitHub stats

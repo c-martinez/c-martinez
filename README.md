@@ -46,11 +46,11 @@ I'm interested in [Open Science](https://www.unesco.org/en/open-science), Open S
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#186](https://github.com/nl-rse/website/pull/186) in [nl-rse/website](https://github.com/nl-rse/website)
-2. 🗣 Commented on [#1876](https://github.com/research-software-directory/RSD-as-a-service/issues/1876#issuecomment-6218138484) in [research-software-directory/RSD-as-a-service](https://github.com/research-software-directory/RSD-as-a-service)
-3. 🎉 Merged PR [#261](https://github.com/esciencecenter-digital-skills/research-software-support/pull/261) in [esciencecenter-digital-skills/research-software-support](https://github.com/esciencecenter-digital-skills/research-software-support)
-4. 💪 Opened PR [#261](https://github.com/esciencecenter-digital-skills/research-software-support/pull/261) in [esciencecenter-digital-skills/research-software-support](https://github.com/esciencecenter-digital-skills/research-software-support)
-5. 🗣 Commented on [#179](https://github.com/nl-rse/website/pull/179#issuecomment-6076540771) in [nl-rse/website](https://github.com/nl-rse/website)
+1. 🗣 Commented on [#472](https://github.com/NLeSC/guide/pull/472#issuecomment-6600884705) in [NLeSC/guide](https://github.com/NLeSC/guide)
+2. ❗ Opened issue [#118](https://github.com/rse-council/researchsoftware.org/issues/118) in [rse-council/researchsoftware.org](https://github.com/rse-council/researchsoftware.org)
+3. 🗣 Commented on [#351](https://github.com/NLeSC/guide/issues/351#issuecomment-6575951984) in [NLeSC/guide](https://github.com/NLeSC/guide)
+4. 🎉 Merged PR [#186](https://github.com/nl-rse/website/pull/186) in [nl-rse/website](https://github.com/nl-rse/website)
+5. 💪 Opened PR [#186](https://github.com/nl-rse/website/pull/186) in [nl-rse/website](https://github.com/nl-rse/website)
 <!--END_SECTION:activity-->
 
 ## ![GitHub](icons/github-original.png) My GitHub stats
